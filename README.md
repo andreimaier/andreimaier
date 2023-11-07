@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreimaier
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
